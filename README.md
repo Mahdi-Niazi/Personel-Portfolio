@@ -39,7 +39,7 @@
 
 
 
-**[Portfolio Project]** is This mobile version portfolio I have written some basic information about me. 
+**[Portfolio Project]** is This portfolio I have written some basic information about me. 
 
 ## 🛠 Built With <a name="built-with">
 **VS Code**    
@@ -69,9 +69,9 @@
 ### Setup 
 
 1. Download the **Zip** file or clone the repo with:
-```bash git clone git@github.com:Mahdi-Niazi/Portfolio_Mobile_Setup.git ``` 
+```bash git clone git@github.com:Mahdi-Niazi/mahdi-niazi.github.io.git ``` 
 2. To access cloned directory run: 
-```bash cd Portfolio_Mobile_Setup ``` 
+```bash cd mahdi-niazi.github.io ``` 
 3. Open it with the live server 
 
 ### Install 
@@ -116,7 +116,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 
 ## Live Demo
 
-- [Portfolio](mahdi-niazi)
+- [Portfolio](https://mahdi-niazi.github.io/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
