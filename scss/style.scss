@@ -1,0 +1,8 @@
+$primaryColor: #fefefe;
+$secondaryColor: red;
+$fontWeight: 500;
+
+.test-p {
+    color: $secondaryColor;
+    font-weight: $fontWeight;
+}
